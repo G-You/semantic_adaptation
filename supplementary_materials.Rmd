@@ -1,0 +1,427 @@
+---
+title: "supplementary_material"
+output: 
+  pdf_document:
+    keep_tex: yes
+---
+# Supplementary Materials
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+library(ggjoy)
+library(rstanarm)
+library(dplyr)
+library(tidybayes)
+library(segmented)
+library(lme4)
+library(optimx)
+library(mgcv)
+library(brms)
+library(schoenberg)
+library(gamm4)
+library(bayestestR)
+library(logspline)
+library(ggridges)
+library(forcats)
+library(tidyverse)
+library(rlist)
+library(kableExtra)
+load(".RData")
+```
+
+## 1. Corpus details
+
+### 1.1 Age span and data size
+
+```{r metadata, echo=FALSE}
+
+metadata.child = data.frame(read.table("metadata_child.txt"))
+metadata.cds = data.frame(read.table("metadata_cds.txt"))
+colnames(metadata.child) = c("Child","Age","utterances","words")
+colnames(metadata.cds) = c("Child","Age","utterances","words")
+
+metadata.cds = metadata.cds %>% 
+  select(-Age) %>% 
+  group_by(Child) %>% 
+  summarise("CDS utterances" = sum(utterances), "CDS words" = sum(words))
+metadata.child = metadata.child %>% 
+  select(-Age) %>% 
+  group_by(Child) %>% 
+  summarise("CS utterances" = sum(utterances), "CS words" = sum(words))
+
+metadata.full = data.frame(read.table("metadata.txt",sep = "\t"))
+colnames(metadata.full) = c("Child","Age span")
+metadata.full = metadata.full %>%
+  full_join(metadata.cds, by="Child")%>%
+  full_join(metadata.child, by="Child")
+
+levels(metadata.full$Child) = c("Child 1","Child 2","Child 3",
+                                 "Child 4","Child 5","Child 6",
+                                 "Child 7","Child 8","Child 9",
+                                 "Child 10","Child 11","Child 12")
+
+metadata.full %>%
+  kbl(caption = "Table 1: Age span and data size for each child in the Manchester corpus",
+    col.names = c("Child", "Age span", "Utterances", "Words", "Utterances", "Words"),
+      align = "llcccc") %>%
+  kable_classic(full_width = F, html_font = "Cambria") %>%
+  add_header_above(c(" " = 2, "Child-directed speech" = 2, "Child speech" = 2))
+
+```
+### 1.2 Mean length of utterances (MLU)
+
+Fig. S1 and Fig. S2 below shows the development of MLU in both child-directed speech and child speech respectively for each child in the corpus. While MLU remains relatively stable in CDS, MLU in CS shows an uptrend for and eventually reaching around 3 for most children.
+
+```{r mlu, echo=FALSE}
+mlu.child = data.frame(read.table("metadata_child.txt"))
+mlu.cds = data.frame(read.table("metadata_cds.txt"))
+colnames(mlu.child) = c("Child","age","utterances","words")
+colnames(mlu.cds) = c("Child","age","utterances","words")
+levels(mlu.child$Child) = c("Child 1","Child 2","Child 3",
+                                 "Child 4","Child 5","Child 6",
+                                 "Child 7","Child 8","Child 9",
+                                 "Child 10","Child 11","Child 12")
+levels(mlu.cds$Child) = c("Child 1","Child 2","Child 3",
+                                 "Child 4","Child 5","Child 6",
+                                 "Child 7","Child 8","Child 9",
+                                 "Child 10","Child 11","Child 12")
+mlu.child$MLU = mlu.child$words/mlu.child$utterances
+mlu.cds$MLU = mlu.cds$words/mlu.cds$utterances
+
+ggplot(mlu.cds, aes(x=age,y=MLU))+
+  geom_bar(stat = "identity")+
+  facet_wrap(vars(Child))+
+  theme_bw()+
+  theme(text = element_text(size=18))
+ggplot(mlu.child, aes(x=age,y=MLU))+
+  geom_bar(stat = "identity")+
+  facet_wrap(vars(Child))+
+  theme_bw()+
+  theme(text = element_text(size=18))
+```
+
+
+```{r vocab, echo=FALSE}
+levels(cds_vocab_stats$child) = c("Child 1","Child 2","Child 3",
+                                 "Child 4","Child 5","Child 6",
+                                 "Child 7","Child 8","Child 9",
+                                 "Child 10","Child 11","Child 12")
+levels(cs_vocab_stats$child) = c("Child 1","Child 2","Child 3",
+                                 "Child 4","Child 5","Child 6",
+                                 "Child 7","Child 8","Child 9",
+                                 "Child 10","Child 11","Child 12")
+ggplot(cds_vocab_stats, aes(x=age,y=vocabulary))+
+  geom_bar(stat = "identity")+
+  facet_wrap(vars(child))+
+  theme_bw()+
+  theme(text = element_text(size=18))
+ggplot(cs_vocab_stats, aes(x=age,y=vocabulary))+
+  geom_bar(stat = "identity")+
+  facet_wrap(vars(child))+
+  theme_bw()+
+  theme(text = element_text(size=18))
+```
+## 2. Models
+
+### 2.1 Posterior predicve checking of best models
+
+```{r model_fit, echo=FALSE}
+pp_check(model.cs.28.30, nsamples = 100)
+pp_check(model.cds.30.32, nsamples = 100)
+pp_check(model.full.non, nsamples = 100)
+pp_check(model.full.27.30, nsamples = 100)
+```
+
+### 2.2 Examination of individual effects
+
+We examine the age effect at an individual level by including the random slopes. 90% quantile-based intervals are reported. For child speech, both the decline of causative complexity in the second stage and the resumption growth in the third stage are particularly prominent, with all individuals displaying negative effect and positive effect by age respectively. In general, individuals do not substantially differ between each other in terms of the developmental trends in each stage.  
+
+```{r random_cs, echo=FALSE}
+child_out_r <- spread_draws(model.cs.28.30, r_name[name,term], 
+                      b_b2age2830,
+                      b_b1age28,
+                      b_b3age30) %>%
+  mutate(b_b2age2830 = r_name + b_b2age2830) %>%
+  mutate(b_b1age28 = r_name + b_b1age28) %>%
+  mutate(b_b3age30 = r_name + b_b3age30)
+child_out_f <- spread_draws(model.cs.28.30, b_b1age28, 
+                      b_b2age2830,
+                      b_b3age30) %>% 
+  mutate(name = "Fixed effect")
+child_out_all <- bind_rows(child_out_r, child_out_f) %>% 
+  ungroup() %>%
+  # Ensure that Average effect is on the bottom of the forest plot
+  mutate(name = fct_relevel(name, "Fixed effect")) %>%
+  mutate(name = factor(name, labels=c("Fixed effect","Child 1",
+  "Child 2","Child 3","Child 4","Child 5","Child 6","Child 7",
+  "Child 8","Child 9","Child 10","Child 11","Child 12")))
+child_out_all_sum_b1 <- group_by(child_out_all, name) %>% 
+  mean_qi(b_b1age28,.width = 0.9)
+child_out_all_sum_b2 <- group_by(child_out_all, name) %>% 
+  mean_qi(b_b2age2830,.width = 0.9)
+child_out_all_sum_b3 <- group_by(child_out_all, name) %>% 
+  mean_qi(b_b3age30,.width = 0.9)
+
+child_out_all %>% 
+  ggplot(aes(b_b1age28, name)) +
+  theme_bw()+
+  geom_density_ridges(
+    rel_min_height = 0.01, 
+    col = NA,
+    scale = 1
+  ) +
+  geom_pointintervalh(
+    data = child_out_all_sum_b1, size = 1
+  ) +
+  geom_text(
+    data = mutate_if(child_out_all_sum_b1, is.numeric, round, 3),
+    # Use glue package to combine strings
+    aes(label = glue::glue("{b_b1age28} [{.lower}, {.upper}]"), x = Inf),
+    hjust = "inward"
+  ) + 
+  geom_vline(xintercept = 0, linetype="dotted")+
+  ylab("child") + 
+  xlab("coefficient of stage 1 (age<28)")+
+  theme(text = element_text(size=18))
+
+child_out_all %>%   
+  ggplot(aes(b_b2age2830, name)) +
+  theme_bw()+
+  geom_density_ridges(
+    rel_min_height = 0.01, 
+    col = NA,
+    scale = 1
+  ) +
+  geom_pointintervalh(
+    data = child_out_all_sum_b2, size = 1
+  ) +
+  geom_text(
+    data = mutate_if(child_out_all_sum_b2, is.numeric, round, 3),
+    # Use glue package to combine strings
+    aes(label = glue::glue("{b_b2age2830} [{.lower}, {.upper}]"), x = Inf),
+    hjust = "inward"
+  ) + 
+  geom_vline(xintercept = 0, linetype="dotted")+
+  ylab("child") + 
+  xlab("coefficient of stage 2 (28<age<30)")+
+  theme(text = element_text(size=18))
+
+
+child_out_all %>%   
+  ggplot(aes(b_b3age30, name)) +
+  theme_bw()+
+  geom_density_ridges(
+    rel_min_height = 0.01, 
+    col = NA,
+    scale = 1
+  ) +
+  geom_pointintervalh(
+    data = child_out_all_sum_b3, size = 1
+  ) +
+  geom_text(
+    data = mutate_if(child_out_all_sum_b3, is.numeric, round, 3),
+    # Use glue package to combine strings
+    aes(label = glue::glue("{b_b3age30} [{.lower}, {.upper}]"), x = Inf),
+    hjust = "inward"
+  ) + 
+  geom_vline(xintercept = 0, linetype="dotted")+
+  ylab("child") + 
+  xlab("coefficient of stage 3 (age>30)")+
+  theme(text = element_text(size=18))
+
+```
+
+For child-directed speech, variability between individuals is greater than in child speech. The trends are, nonetheless, similar across different children, especially in the second and third stages, with a wider credible interval for some individuals.
+
+```{r random_cds, echo=FALSE}
+cds_out_r <- spread_draws(model.cds.30.32, r_name[name,term], 
+                      b_b2age3032,
+                      b_b1age30,
+                      b_b3age32) %>% 
+  mutate(b_b2age3032 = r_name + b_b2age3032) %>%
+  mutate(b_b1age30 = r_name + b_b1age30) %>%
+  mutate(b_b3age32 = r_name + b_b3age32)
+cds_out_f <- spread_draws(model.cds.30.32, b_b1age30, 
+                      b_b2age3032,
+                      b_b3age32) %>% 
+  mutate(name = "Fixed effect")
+cds_out_all <- bind_rows(cds_out_r, cds_out_f) %>% 
+  ungroup() %>%
+  # Ensure that Average effect is on the bottom of the forest plot
+  mutate(name = fct_relevel(name, "Fixed effect")) %>%
+  mutate(name = factor(name, labels=c("Fixed effect","Child 1",
+  "Child 2","Child 3","Child 4","Child 5","Child 6","Child 7",
+  "Child 8","Child 9","Child 10","Child 11","Child 12")))
+cds_out_all_sum_b1 <- group_by(cds_out_all, name) %>% 
+  mean_qi(b_b1age30,.width = 0.9)
+cds_out_all_sum_b2 <- group_by(cds_out_all, name) %>% 
+  mean_qi(b_b2age3032,.width = 0.9)
+cds_out_all_sum_b3 <- group_by(cds_out_all, name) %>% 
+  mean_qi(b_b3age32,.width = 0.9)
+
+cds_out_all %>%   
+  ggplot(aes(b_b1age30, name)) +
+  theme_bw()+
+  geom_density_ridges(
+    rel_min_height = 0.01, 
+    col = NA,
+    scale = 1
+  ) +
+  geom_pointintervalh(
+    data = cds_out_all_sum_b1, size = 1
+  ) +
+  geom_text(
+    data = mutate_if(cds_out_all_sum_b1, is.numeric, round, 3),
+    # Use glue package to combine strings
+    aes(label = glue::glue("{b_b1age30} [{.lower}, {.upper}]"), x = Inf),
+    hjust = "inward"
+  ) + 
+  geom_vline(xintercept = 0, linetype="dotted")+
+  ylab("child") + 
+  xlab("coefficient of stage 1 (age<30)")+
+  theme(text = element_text(size=18))
+
+cds_out_all %>%   
+  ggplot(aes(b_b2age3032, name)) +
+  theme_bw()+
+  geom_density_ridges(
+    rel_min_height = 0.01, 
+    col = NA,
+    scale = 1
+  ) +
+  geom_pointintervalh(
+    data = cds_out_all_sum_b2, size = 1
+  ) +
+  geom_text(
+    data = mutate_if(cds_out_all_sum_b2, is.numeric, round, 3),
+    # Use glue package to combine strings
+    aes(label = glue::glue("{b_b2age3032} [{.lower}, {.upper}]"), x = Inf),
+    hjust = "inward"
+  ) + 
+  geom_vline(xintercept = 0, linetype="dotted")+
+  ylab("child") + 
+  xlab("coefficient of stage 2 (30<age<32)")+
+  theme(text = element_text(size=18))
+
+
+cds_out_all %>%   
+  ggplot(aes(b_b3age32, name)) +
+  theme_bw()+
+  geom_density_ridges(
+    rel_min_height = 0.01, 
+    col = NA,
+    scale = 1
+  ) +
+  geom_pointintervalh(
+    data = cds_out_all_sum_b3, size = 1
+  ) +
+  geom_text(
+    data = mutate_if(cds_out_all_sum_b3, is.numeric, round, 3),
+    # Use glue package to combine strings
+    aes(label = glue::glue("{b_b3age32} [{.lower}, {.upper}]"), x = Inf),
+    hjust = "inward"
+  ) + 
+  geom_vline(xintercept = 0, linetype="dotted")+
+  ylab("child") + 
+  xlab("coefficient of stage 3 (age>32)")+
+  theme(text = element_text(size=18))
+
+```
+
+We also examine the model with break points at 27 and 30 months of age in Analysis 2. The increase of the gap between CDS and CS is clear in the second stage for all children, as is the decrease of the gap starting from the age of 30 months, when the adaptation in CDS begins to show. 
+```{r random_full, echo=FALSE}
+full_out_r <- spread_draws(model.full.27.30, r_name[name,term], 
+                      b_b2age2730,
+                      b_b1age27,
+                      b_b3age30) %>% 
+  mutate(b_b2age2730 = r_name + b_b2age2730) %>%
+  mutate(b_b1age27 = r_name + b_b1age27) %>%
+  mutate(b_b3age30 = r_name + b_b3age30)
+full_out_f <- spread_draws(model.full.27.30, b_b1age27, 
+                      b_b2age2730,
+                      b_b3age30) %>% 
+  mutate(name = "Fixed effect")
+full_out_all <- bind_rows(full_out_r, full_out_f) %>% 
+  ungroup() %>%
+  # Ensure that Average effect is on the bottom of the forest plot
+  mutate(name = fct_relevel(name, "Fixed effect")) %>%
+  mutate(name = factor(name, labels=c("Fixed effect","Child 1",
+  "Child 2","Child 3","Child 4","Child 5","Child 6","Child 7",
+  "Child 8","Child 9","Child 10","Child 11","Child 12")))
+full_out_all_sum_b1 <- group_by(full_out_all, name) %>% 
+  mean_qi(b_b1age27,.width = 0.9)
+full_out_all_sum_b2 <- group_by(full_out_all, name) %>% 
+  mean_qi(b_b2age2730,.width = 0.9)
+full_out_all_sum_b3 <- group_by(full_out_all, name) %>% 
+  mean_qi(b_b3age30,.width = 0.9)
+
+full_out_all %>%   
+  ggplot(aes(b_b1age27, name)) +
+  theme_bw()+
+  geom_density_ridges(
+    rel_min_height = 0.01, 
+    col = NA,
+    scale = 1
+  ) +
+  geom_pointintervalh(
+    data = full_out_all_sum_b1, size = 1
+  ) +
+  geom_text(
+    data = mutate_if(full_out_all_sum_b1, is.numeric, round, 3),
+    # Use glue package to combine strings
+    aes(label = glue::glue("{b_b1age27} [{.lower}, {.upper}]"), x = Inf),
+    hjust = "inward"
+  ) + 
+  geom_vline(xintercept = 0, linetype="dotted")+
+  ylab("child") + 
+  xlab("coefficient of stage 1 (age<27)")+
+  theme(text = element_text(size=18))
+
+full_out_all %>%   
+  ggplot(aes(b_b2age2730, name)) +
+  theme_bw()+
+  geom_density_ridges(
+    rel_min_height = 0.01, 
+    col = NA,
+    scale = 1
+  ) +
+  geom_pointintervalh(
+    data = full_out_all_sum_b2, size = 1
+  ) +
+  geom_text(
+    data = mutate_if(full_out_all_sum_b2, is.numeric, round, 3),
+    # Use glue package to combine strings
+    aes(label = glue::glue("{b_b2age2730} [{.lower}, {.upper}]"), x = Inf),
+    hjust = "inward"
+  ) + 
+  geom_vline(xintercept = 0, linetype="dotted")+
+  ylab("child") + 
+  xlab("coefficient of stage 2 (27<age<30)")+
+  theme(text = element_text(size=18))
+
+
+full_out_all %>%   
+  ggplot(aes(b_b3age30, name)) +
+  theme_bw()+
+  geom_density_ridges(
+    rel_min_height = 0.01, 
+    col = NA,
+    scale = 1
+  ) +
+  geom_pointintervalh(
+    data = full_out_all_sum_b3, size = 1
+  ) +
+  geom_text(
+    data = mutate_if(full_out_all_sum_b3, is.numeric, round, 3),
+    # Use glue package to combine strings
+    aes(label = glue::glue("{b_b3age30} [{.lower}, {.upper}]"), x = Inf),
+    hjust = "inward"
+  ) + 
+  geom_vline(xintercept = 0, linetype="dotted")+
+  ylab("child") + 
+  xlab("coefficient of stage 3 (age>30)")+
+  theme(text = element_text(size=18))
+
+```
+

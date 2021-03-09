@@ -1,3 +1,7 @@
+# get Manchester data
+rm cds/*.txt
+rm child/*.txt
+python3 parse_Manchester.py
 
 # remove old files
 rm merged-cds/*.txt
