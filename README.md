@@ -2,6 +2,12 @@
 
 Corresponding author: [Guanghao You](mailto:guanghao.you@uzh.ch?subject=[GitHub]%20Paper%20on%20semantic%20adaptation)
 
+## Data
+
+Manchester corpus data can be retrieved via the link below:\
+[Manchester corpus](https://childes.talkbank.org/data-xml/Eng-UK/Manchester.zip)\
+Please place the folders under a directory called "data" (to be processed by the parser)
+
 ## For quick replication of figures and tables
 
 Please check out the R scripts main_analyses.R and the markdown of supplementary materials.
