@@ -1,0 +1,1655 @@
+^^ no $$
+^^ car noise $$
+^^ car noise $$
+^^ brumm $$
+^^ man $$
+^^ boy $$
+^^ Mummy $$
+^^ a van $$
+^^ van $$
+^^ big truck $$
+^^ big truck $$
+^^ rat book $$
+^^ book $$
+^^ book $$
+^^ nut $$
+^^ bee $$
+^^ bee $$
+^^ duck $$
+^^ duck $$
+^^ dog $$
+^^ cat $$
+^^ cat $$
+^^ that $$
+^^ bird $$
+^^ neigh $$
+^^ eat grass $$
+^^ eat grass $$
+^^ truck $$
+^^ truck $$
+^^ horse $$
+^^ I want rat $$
+^^ rat book $$
+^^ rat book $$
+^^ mouse $$
+^^ this $$
+^^ dead fly $$
+^^ dead fly $$
+^^ go $$
+^^ go $$
+^^ go $$
+^^ it red $$
+^^ red $$
+^^ red $$
+^^ red $$
+^^ red $$
+^^ yellow $$
+^^ train red $$
+^^ train red $$
+^^ this $$
+^^ the  $$
+^^ climb it $$
+^^ push $$
+^^ Daddy truck $$
+^^ Daddy truck $$
+^^ Daddy truck $$
+^^ all_gone $$
+^^ climb $$
+^^ tractor $$
+^^ tractor $$
+^^ Daddy tractor $$
+^^ down $$
+^^ climb $$
+^^ train $$
+^^ no $$
+^^ not $$
+^^ kick $$
+^^ I kick $$
+^^ climb $$
+^^ man $$
+^^ man $$
+^^ sleep $$
+^^ sleep $$
+^^ go $$
+^^ man go $$
+^^ go $$
+^^ this boat $$
+^^ dust go $$
+^^ man $$
+^^ kick $$
+^^     go $$
+^^ dust $$
+^^ no $$
+^^ man here $$
+^^ the man here $$
+^^ sack $$
+^^ throw $$
+^^ train $$
+^^ truck $$
+^^ truck $$
+^^ train $$
+^^ train $$
+^^ Mummy $$
+^^ Mummy $$
+^^ train $$
+^^ train $$
+^^ choo $$
+^^ bus stop $$
+^^ penny $$
+^^ get none $$
+^^ bus stop $$
+^^ the train $$
+^^ pay $$
+^^ man $$
+^^ want bus man $$
+^^ want man $$
+^^ door $$
+^^ kick $$
+^^ get up $$
+^^ hot $$
+^^ hot $$
+^^ hair hot $$
+^^ this $$
+^^ teddy bump $$
+^^  boat $$
+^^ break $$
+^^ tractor $$
+^^ boy $$
+^^ green $$
+^^ Toby $$
+^^ me go there $$
+^^ car $$
+^^ house $$
+^^ truck Daddy $$
+^^ boat $$
+^^ not up there $$
+^^ shirt wet $$
+^^ stone $$
+^^ get the boat $$
+^^ boat $$
+^^ boat $$
+^^ door $$
+^^ door $$
+^^ wee boat $$
+^^ knicks $$
+^^ knicks $$
+^^ not door $$
+^^ train $$
+^^ train $$
+^^ man $$
+^^ man $$
+^^ wave $$
+^^ wave $$
+^^ the wave $$
+^^ wave $$
+^^ Daddy $$
+^^ get up $$
+^^ get up $$
+^^ get up down $$
+^^ can not no $$
+^^ that down $$
+^^ want here $$
+^^ here you be $$
+^^ want this $$
+^^ I want that $$
+^^ a train $$
+^^ choo_choo $$
+^^ whoo $$
+^^ whoo $$
+^^ choo_choo $$
+^^ smoke stack $$
+^^ smoke stack $$
+^^ grass $$
+^^ tower $$
+^^ coal back $$
+^^ coal $$
+^^ coal $$
+^^ book $$
+^^ yes $$
+^^ ticket $$
+^^ ticket $$
+^^ man $$
+^^ book $$
+^^ book $$
+^^ I need book $$
+^^ book $$
+^^ book $$
+^^ Worzel $$
+^^ Worzel $$
+^^ where $$
+^^ where $$
+^^ right $$
+^^ book $$
+^^ book $$
+^^ teddy book $$
+^^ right $$
+^^ right $$
+^^ whoo $$
+^^ that train choo $$
+^^ grass $$
+^^ grass $$
+^^ grass $$
+^^ stick $$
+^^ brumm $$
+^^ knock $$
+^^ brumm $$
+^^ noise $$
+^^ noise $$
+^^ noise $$
+^^ noise $$
+^^ Mummy $$
+^^ brumm $$
+^^ crash $$
+^^ bump $$
+^^ Mummy $$
+^^ Mummy $$
+^^ Mummy in $$
+^^ Mummy $$
+^^ Mummy $$
+^^ Mummy $$
+^^ Mummy $$
+^^ Mummy $$
+^^ Daddy $$
+^^ Mary $$
+^^ monster $$
+^^ monster $$
+^^ book $$
+^^ that $$
+^^ wet $$
+^^ brumm $$
+^^ Mummy $$
+^^ Mummy $$
+^^ Mummy $$
+^^ grass $$
+^^ grass $$
+^^ clean $$
+^^ clean $$
+^^ have you polish it all $$
+^^ dust $$
+^^ grass $$
+^^ grass $$
+^^ it grass $$
+^^ grass $$
+^^ grass $$
+^^ broke $$
+^^ man $$
+^^ man $$
+^^ Daddy drive tractor $$
+^^ grass $$
+^^ it the grass $$
+^^ grass $$
+^^ grass $$
+^^ that grass $$
+^^ grass $$
+^^ it the grass boat $$
+^^ it the grass $$
+^^ boat $$
+^^ grass $$
+^^ grass $$
+^^ no $$
+^^ grass $$
+^^ grass $$
+^^ grass $$
+^^ grass $$
+^^ grass $$
+^^ it grass $$
+^^ grass $$
+^^ grass $$
+^^ it grass $$
+^^ coat $$
+^^ toe $$
+^^ I pull $$
+^^ cry $$
+^^ boat $$
+^^ boat $$
+^^ boat $$
+^^ it rock $$
+^^ go go $$
+^^ noise $$
+^^ boat $$
+^^ boat $$
+^^ right $$
+^^ rock $$
+^^ rock $$
+^^ brick $$
+^^ oh there be $$
+^^ there fence $$
+^^ fence $$
+^^ fence $$
+^^ fence $$
+^^ boat $$
+^^ right $$
+^^ rock $$
+^^ ow $$
+^^ bang my $$
+^^ out there $$
+^^ ball $$
+^^ Mummy $$
+^^ door $$
+^^ right $$
+^^ the boat doll $$
+^^ boat $$
+^^ eye $$
+^^ button $$
+^^ hair $$
+^^ cut $$
+^^ lady cut hair $$
+^^ there toe $$
+^^ shirt $$
+^^ hand $$
+^^ toe $$
+^^ there $$
+^^ yes $$
+^^ boat $$
+^^ sock $$
+^^ sock toe $$
+^^ Mummy $$
+^^ boat $$
+^^ get one shoe $$
+^^ no $$
+^^ clean $$
+^^ clean $$
+^^ clean $$
+^^ oh me $$
+^^ boy $$
+^^ Mummy $$
+^^ book $$
+^^ what be it $$
+^^ Mummy $$
+^^ I want Mummy $$
+^^ sit sit $$
+^^ sit there $$
+^^ lady $$
+^^ doll sit no $$
+^^ no $$
+^^ Ted $$
+^^ Ted $$
+^^ the Ted $$
+^^ Ted $$
+^^ Ted $$
+^^ no $$
+^^ not $$
+^^ Ted $$
+^^ boat $$
+^^ boat $$
+^^ right $$
+^^ yeah $$
+^^ yeah $$
+^^ park $$
+^^ Percy $$
+^^ want park $$
+^^ park $$
+^^ cry $$
+^^ baby cry $$
+^^ bed $$
+^^ want Percy park baby $$
+^^ no $$
+^^ book $$
+^^ want book $$
+^^ the keep $$
+^^ Percy $$
+^^ get out $$
+^^ get Percy $$
+^^ lady $$
+^^ lady there $$
+^^ Daddy $$
+^^ read $$
+^^ bang wall $$
+^^ bang wall $$
+^^ string $$
+^^ park $$
+^^ cut $$
+^^ clip clip clip $$
+^^ hen $$
+^^ tree $$
+^^ tree $$
+^^ sleep $$
+^^ bear $$
+^^ girl $$
+^^ swing $$
+^^ fish $$
+^^ boy $$
+^^ cry there $$
+^^ climb $$
+^^ climb $$
+^^ plate $$
+^^ bowl $$
+^^ din $$
+^^ spoon $$
+^^ there $$
+^^ girl $$
+^^ broke $$
+^^ bear $$
+^^ Mummy $$
+^^ Mummy read $$
+^^ get three bear $$
+^^ Mummy $$
+^^ Daddy $$
+^^ Mummy $$
+^^ bear $$
+^^ cry $$
+^^ porridge $$
+^^ chair broke $$
+^^ boat $$
+^^ horse $$
+^^ go there $$
+^^ go there $$
+^^ go there $$
+^^ me play $$
+^^ no $$
+^^ ow $$
+^^ I fall $$
+^^ need bang bang $$
+^^ need bang bang $$
+^^ need bang bang $$
+^^ there $$
+^^ there $$
+^^ get bang $$
+^^ get $$
+^^ go go go go go go go $$
+^^ hammer $$
+^^ tick $$
+^^ no $$
+^^ no $$
+^^ sore toe $$
+^^ my hammer $$
+^^ toy $$
+^^ toy $$
+^^ toy there $$
+^^ toy there $$
+^^ drink there $$
+^^ drink there $$
+^^ drink there $$
+^^ no not $$
+^^ no not $$
+^^ toy $$
+^^ toy there $$
+^^ toy there $$
+^^ toy there $$
+^^ toy oh toy there $$
+^^ no $$
+^^ toy there $$
+^^ toy there $$
+^^ toy there $$
+^^ toy there $$
+^^ I need it $$
+^^ oh $$
+^^ I need this $$
+^^ no $$
+^^ will not will not will not will not $$
+^^ Mummy $$
+^^ no hammer that there $$
+^^ my $$
+^^ this hoop $$
+^^ here $$
+^^ blue $$
+^^ hat $$
+^^ bang bang $$
+^^ arm $$
+^^ arm there $$
+^^ monster $$
+^^ eat $$
+^^ eat boy $$
+^^ try $$
+^^ try $$
+^^ try $$
+^^ hole $$
+^^ eat $$
+^^ eat $$
+^^ eat boy $$
+^^ wet no $$
+^^ no $$
+^^ no $$
+^^ dust $$
+^^ knicks $$
+^^ look $$
+^^ there $$
+^^ there $$
+^^ it a  $$
+^^ a  $$
+^^ a man $$
+^^ on there $$
+^^ in there $$
+^^ look $$
+^^ there $$
+^^ light $$
+^^ light $$
+^^ light go $$
+^^ man go $$
+^^ man $$
+^^ man go $$
+^^ man $$
+^^ the man next $$
+^^ man $$
+^^ man next $$
+^^ man next $$
+^^ man $$
+^^ good light there $$
+^^ oh $$
+^^ drive $$
+^^ jump $$
+^^ a boat $$
+^^ a boat $$
+^^ no me $$
+^^ I want toy $$
+^^ want toy $$
+^^ a boat $$
+^^ Eve buy me $$
+^^ Eve buy sock $$
+^^ Eve buy them $$
+^^ Eve buy $$
+^^ Eve buy mhm $$
+^^ not ride the boat $$
+^^ I ride $$
+^^ I want park $$
+^^ go park $$
+^^ Daniel cut lawn $$
+^^ age $$
+^^ Daniel $$
+^^ Daniel cut lawn $$
+^^ truck $$
+^^ not the truck $$
+^^ it bang $$
+^^ that big bang $$
+^^ bang $$
+^^ baby $$
+^^ dust $$
+^^ dust $$
+^^ late $$
+^^ late $$
+^^ man $$
+^^ knock no $$
+^^ no $$
+^^ seesaw $$
+^^ no $$
+^^ cat $$
+^^ mieow $$
+^^ mieow cat $$
+^^ toy $$
+^^ it toy $$
+^^ there a spoon $$
+^^ a bee $$
+^^ apple $$
+^^ apple $$
+^^ fly $$
+^^ it be fly $$
+^^ there a cat $$
+^^ igloo $$
+^^ there $$
+^^ I get the fly $$
+^^ that fly $$
+^^ a fly $$
+^^ pen $$
+^^ p $$
+^^ there $$
+^^ kite $$
+^^ and that fly $$
+^^ there $$
+^^ bee $$
+^^ bee $$
+^^ there a bee $$
+^^ May $$
+^^ May $$
+^^ swim $$
+^^ it a spoon $$
+^^ yeah $$
+^^ tea $$
+^^ fly $$
+^^ man $$
+^^ kite $$
+^^ kite $$
+^^ mouse $$
+^^ May $$
+^^ May $$
+^^ May $$
+^^ May $$
+^^ queen $$
+^^ it queen $$
+^^ mine $$
+^^ car $$
+^^ coat $$
+^^ peach $$
+^^ grape $$
+^^ cat $$
+^^ whale $$
+^^ swim $$
+^^ a big boat $$
+^^ this a boat $$
+^^ boat $$
+^^ boat $$
+^^ it cry $$
+^^ that a floor $$
+^^ that a carrot $$
+^^ eat carrot $$
+^^ eat eat $$
+^^ toast $$
+^^ drink $$
+^^ hat $$
+^^ stand up $$
+^^ dig $$
+^^ dig $$
+^^ dig $$
+^^ dig $$
+^^ dance $$
+^^ a boat $$
+^^ dig make noise $$
+^^ noise $$
+^^ yeah $$
+^^ it tip there $$
+^^ tip there $$
+^^ no $$
+^^ not $$
+^^ Mummy get $$
+^^ lift $$
+^^ lift $$
+^^ lift up $$
+^^ lift $$
+^^ no not $$
+^^ dig $$
+^^ walk $$
+^^ floor $$
+^^ I want dig $$
+^^ lady sit there $$
+^^ lady sit there $$
+^^ man sit there $$
+^^ I throw $$
+^^ I want $$
+^^ I get down $$
+^^ I want down $$
+^^ train $$
+^^ choo $$
+^^ train $$
+^^ train it was dark $$
+^^ dark $$
+^^ green there $$
+^^ green $$
+^^ throw $$
+^^ get in boat $$
+^^ other box $$
+^^ other box $$
+^^ other box $$
+^^ Daddy that mhm $$
+^^ this dig $$
+^^ sand $$
+^^ man sit there $$
+^^ man sit there $$
+^^ it turn back $$
+^^ it bang $$
+^^ it bang $$
+^^ these $$
+^^ the toy there $$
+^^ no $$
+^^ no $$
+^^ oh $$
+^^ on here bump $$
+^^ bump $$
+^^ yeah $$
+^^ yeah $$
+^^ it a dig $$
+^^ floor $$
+^^ boy on wheel $$
+^^ break toy $$
+^^ one three $$
+^^ jump $$
+^^ no $$
+^^ I get big car $$
+^^ one two three $$
+^^ jump off $$
+^^ hair $$
+^^ hair $$
+^^ the box $$
+^^ in the box broke $$
+^^ box $$
+^^ box $$
+^^ broke $$
+^^ it be the lady $$
+^^ me $$
+^^ me $$
+^^ that me $$
+^^ it break $$
+^^ it break $$
+^^ the top break $$
+^^ bang $$
+^^ this nose $$
+^^ it a that $$
+^^ it that $$
+^^ brush $$
+^^ brush $$
+^^ crumb $$
+^^  it light $$
+^^ one three $$
+^^ three jump $$
+^^ tea $$
+^^ tea $$
+^^ there we be $$
+^^ there tea $$
+^^ want tea $$
+^^ make tea $$
+^^ water $$
+^^ some more $$
+^^ tea $$
+^^ I want tea $$
+^^ tea $$
+^^ the tea $$
+^^ tea $$
+^^ the tea $$
+^^ where tea $$
+^^ cold tea $$
+^^ drink $$
+^^ no $$
+^^ get $$
+^^ forget $$
+^^ get the tea $$
+^^ there tea $$
+^^ tea $$
+^^ I get tea $$
+^^ hot $$
+^^ it hot $$
+^^ hot $$
+^^ hot cold $$
+^^ tea go $$
+^^ okay $$
+^^ Daddy tea $$
+^^ Mummy $$
+^^ it hot $$
+^^ tea $$
+^^ there tea $$
+^^ wet $$
+^^ tea $$
+^^ tea $$
+^^ tea mhm $$
+^^ bin $$
+^^ eat $$
+^^ that the tea $$
+^^ tea hot $$
+^^ Ted $$
+^^ hot $$
+^^ hot $$
+^^ make the $$
+^^ eat $$
+^^ a drink $$
+^^ Daddy $$
+^^ hot $$
+^^ it go $$
+^^ this bite there $$
+^^ here you be $$
+^^ cup $$
+^^ cup $$
+^^ cup $$
+^^ it go $$
+^^ yeah $$
+^^ cup $$
+^^ cup $$
+^^ it go $$
+^^ dust $$
+^^ the dust $$
+^^ tea on there $$
+^^ not $$
+^^ not $$
+^^ not $$
+^^ I not $$
+^^ not $$
+^^ it go $$
+^^ it go $$
+^^ Daddy back $$
+^^ teddy eat tea $$
+^^ drink $$
+^^ balloon $$
+^^ cup lady $$
+^^ Ted $$
+^^ stop $$
+^^ stop $$
+^^ stop $$
+^^ stop $$
+^^ it on $$
+^^ it on $$
+^^  it stop $$
+^^ stop $$
+^^ knick $$
+^^ dress $$
+^^ dress $$
+^^  it knicks $$
+^^ no $$
+^^ not $$
+^^ he go $$
+^^ car $$
+^^ bow $$
+^^ a bow $$
+^^ fly $$
+^^ cry $$
+^^ I kiss $$
+^^ kiss $$
+^^ hair $$
+^^ pull hair $$
+^^ a fly $$
+^^ shoe $$
+^^ a fly $$
+^^ it shoe $$
+^^ shoe $$
+^^ it shoe $$
+^^ cry $$
+^^ car $$
+^^ there doll $$
+^^ there brick $$
+^^ good morning $$
+^^ car $$
+^^ car $$
+^^ another car $$
+^^ car $$
+^^ man sit there $$
+^^ man sit there $$
+^^ stick $$
+^^ car $$
+^^ stick $$
+^^ I want $$
+^^ yeah $$
+^^ man $$
+^^ man sit there $$
+^^ man $$
+^^ lady sit there $$
+^^ lady sit there $$
+^^ car $$
+^^ there a car $$
+^^ elephant $$
+^^ there elephant $$
+^^ I walk $$
+^^ hair $$
+^^ hair $$
+^^ one more $$
+^^ one more $$
+^^ fence $$
+^^ I near do $$
+^^ bear $$
+^^ a bear $$
+^^ bear $$
+^^ clean the fly $$
+^^ fly $$
+^^ wipe fly $$
+^^ get $$
+^^ get wipe $$
+^^ get wipe $$
+^^ get wipe $$
+^^ fly go $$
+^^ get it $$
+^^ get $$
+^^ get $$
+^^ fly $$
+^^ fly $$
+^^ I get fly $$
+^^ get there $$
+^^ it get there $$
+^^ hey $$
+^^ fly $$
+^^ wipe $$
+^^ I wipe it $$
+^^ get fly $$
+^^ get fly $$
+^^ get the fly $$
+^^ get the fly $$
+^^ get wipe $$
+^^ get wipe $$
+^^ get wipe $$
+^^ get wipe $$
+^^ I get the fly $$
+^^ there $$
+^^ the fly $$
+^^ fly $$
+^^ that fly $$
+^^ fly $$
+^^   I want look $$
+^^ wipe $$
+^^ rub it $$
+^^ monkey $$
+^^ I do $$
+^^ it floor $$
+^^ floor $$
+^^ fly $$
+^^ wipe floor $$
+^^ a fly $$
+^^ floor $$
+^^ floor $$
+^^ squash $$
+^^ fly $$
+^^ a bird $$
+^^ tap tap tap tap $$
+^^ bang $$
+^^ a wee $$
+^^ bus stop $$
+^^ bus stop $$
+^^ bus stop $$
+^^ bus stop $$
+^^ a fly $$
+^^ gribbet $$
+^^ tree $$
+^^ ribbet ribbet ribbet ribbet $$
+^^ a duck $$
+^^ it a duck $$
+^^ bike $$
+^^ man sit there $$
+^^ a man sit $$
+^^ a fly $$
+^^ a baby $$
+^^ green no $$
+^^ green $$
+^^ it green $$
+^^ red $$
+^^ red $$
+^^ and green $$
+^^ leaf green $$
+^^ bird green $$
+^^ bus stop $$
+^^ that there $$
+^^ lady $$
+^^ that there $$
+^^ lady a go $$
+^^ lady go $$
+^^ lady go $$
+^^ lady go $$
+^^ lady $$
+^^ twoo $$
+^^ one two three $$
+^^ I want Mummy there $$
+^^ Mummy there $$
+^^ seesaw $$
+^^ no $$
+^^ be $$
+^^ be $$
+^^ down down down $$
+^^ bang $$
+^^ bang $$
+^^ tin $$
+^^ bang tin $$
+^^ go $$
+^^ go $$
+^^ go $$
+^^ go $$
+^^ it go $$
+^^ it eat bear $$
+^^ go $$
+^^ go $$
+^^ go $$
+^^ Ted $$
+^^ Ted go $$
+^^ hat $$
+^^ come off $$
+^^ it  $$
+^^ come off $$
+^^ come off $$
+^^ Mummy $$
+^^ ice $$
+^^ cake $$
+^^ nana $$
+^^ nice $$
+^^ nice $$
+^^ hoop $$
+^^ oh what this $$
+^^ buy these $$
+^^ buy a yellow lemon $$
+^^ get $$
+^^ cry $$
+^^ Aran eat grape $$
+^^ more $$
+^^ sore $$
+^^ no $$
+^^ bot sore $$
+^^ car $$
+^^ yeah $$
+^^ hot $$
+^^ hat $$
+^^ it be  $$
+^^ toy $$
+^^ no not $$
+^^ me $$
+^^ out $$
+^^ out $$
+^^ hot $$
+^^ hot $$
+^^ grass $$
+^^ grass $$
+^^ fly $$
+^^ get some food $$
+^^ apple $$
+^^ banana $$
+^^ there boat $$
+^^ the boat there $$
+^^ there $$
+^^ to see Nanny $$
+^^ yeah $$
+^^ boat $$
+^^ boat $$
+^^ sea $$
+^^ I want fly $$
+^^ fly $$
+^^ I want $$
+^^ I want it on $$
+^^ I want $$
+^^ no $$
+^^ no no $$
+^^ like this $$
+^^ bee $$
+^^ bee no $$
+^^ no $$
+^^ boat $$
+^^ there boat $$
+^^ I sit there $$
+^^ I sit there $$
+^^ a boat $$
+^^ get in $$
+^^ get in $$
+^^ no $$
+^^ boat $$
+^^ a boat $$
+^^ hole $$
+^^ there hole $$
+^^ hole $$
+^^ boot $$
+^^ bump that $$
+^^ rain $$
+^^ dark $$
+^^ dark $$
+^^ I want $$
+^^ ding $$
+^^ like $$
+^^ that that light $$
+^^ light $$
+^^ light $$
+^^ I like $$
+^^ like $$
+^^ like $$
+^^ a slide $$
+^^ it top there $$
+^^ top $$
+^^ dust boat $$
+^^ yeah $$
+^^ get fly $$
+^^ come back $$
+^^ there no fly $$
+^^ no fly $$
+^^ no $$
+^^ splat fly $$
+^^ card there $$
+^^  Daddy $$
+^^ Daddy $$
+^^ why boy cry $$
+^^ boy cry $$
+^^ no cry $$
+^^ no $$
+^^ no $$
+^^ boy $$
+^^ neenaw neenaw neenaw $$
+^^ man sit there $$
+^^ look $$
+^^ boy there $$
+^^ tree $$
+^^ where the boy $$
+^^ boy that $$
+^^ drive big truck $$
+^^ big truck $$
+^^ neenaw neenaw $$
+^^ tractor live there $$
+^^ tractor live there $$
+^^ cut grass $$
+^^ tractor $$
+^^  cut the grass $$
+^^ it that light $$
+^^ light $$
+^^ blue $$
+^^ look light $$
+^^ it flash $$
+^^ fly $$
+^^ fly $$
+^^ do fly $$
+^^ it man sit there $$
+^^ man sit there $$
+^^ drink $$
+^^ want drink $$
+^^ want drink $$
+^^ want drink $$
+^^ want that $$
+^^ brumm $$
+^^ up there $$
+^^ up there $$
+^^ up there $$
+^^ put sand up $$
+^^ broke $$
+^^ broke $$
+^^ lady $$
+^^ place $$
+^^ no $$
+^^ not bump $$
+^^ see $$
+^^ it big one $$
+^^ big one $$
+^^ big one $$
+^^ box $$
+^^ on the grass $$
+^^ grass $$
+^^ on grass $$
+^^ on grass $$
+^^ seesaw $$
+^^ see this one $$
+^^ dust $$
+^^ dust the fly $$
+^^ come back $$
+^^ no fly $$
+^^ no $$
+^^ no $$
+^^ fly away $$
+^^ the fly $$
+^^ Mummy $$
+^^ Mummy $$
+^^ post $$
+^^ in here $$
+^^ one $$
+^^ one no fit $$
+^^ one $$
+^^ one $$
+^^ it one $$
+^^ post $$
+^^ no $$
+^^ not $$
+^^ no $$
+^^ no $$
+^^ not $$
+^^ Mummy be that $$
+^^ stick $$
+^^ it stick $$
+^^ it $$
+^^ it $$
+^^ rub that there $$
+^^ no not $$
+^^ not $$
+^^ I get a ball $$
+^^ out park $$
+^^ park $$
+^^ not a tractor there $$
+^^ no lady tractor $$
+^^ tree $$
+^^ eat tree $$
+^^ eat the tree $$
+^^ eat the tree $$
+^^ tree $$
+^^ this one eat there $$
+^^ it broke $$
+^^ move Mummy $$
+^^ move the boat $$
+^^ like that big one $$
+^^ look a tractor $$
+^^ hammer $$
+^^  want hammer $$
+^^ want hammer $$
+^^ want hammer $$
+^^ want car $$
+^^ park $$
+^^ want  $$
+^^ I   get a boy $$
+^^ get wet $$
+^^ look get pipe burst $$
+^^ it get  $$
+^^ it get $$
+^^ it  $$
+^^ the pipe   get $$
+^^ the pipe $$
+^^ get wet $$
+^^ it get wet $$
+^^ it $$
+^^ look $$
+^^ man sit there $$
+^^ Daddy sit there $$
+^^ get wet $$
+^^ get burst $$
+^^ the pipe get burst $$
+^^ pipe get burst $$
+^^ wet $$
+^^ it wet $$
+^^ get  $$
+^^ pipe $$
+^^ fly there $$
+^^ get  $$
+^^ get a boy that $$
+^^ mhm $$
+^^ a pipe $$
+^^ it get  $$
+^^ get boy $$
+^^ it boy $$
+^^ pipe get wet $$
+^^ that $$
+^^ big wet $$
+^^ a  $$
+^^ pipe $$
+^^ pipe $$
+^^ look a dust $$
+^^ it a bin $$
+^^ there a bin $$
+^^ dust $$
+^^ they late $$
+^^ man sit there $$
+^^ that play $$
+^^ that $$
+^^ no $$
+^^ who be that $$
+^^ that Daddy $$
+^^ that $$
+^^ that Daddy $$
+^^ Daddy $$
+^^ Daddy like that $$
+^^ that spider $$
+^^ spider $$
+^^ come back $$
+^^ the boy $$
+^^ not wheel $$
+^^ that get big $$
+^^ back $$
+^^ truck go $$
+^^ lady go $$
+^^ come back $$
+^^ come back $$
+^^ come back $$
+^^ come back $$
+^^ no man $$
+^^ this on $$
+^^ this on $$
+^^ in $$
+^^ key $$
+^^ there a man $$
+^^ a key $$
+^^ door $$
+^^ train $$
+^^ man $$
+^^ sit there $$
+^^ it Daddy sit there $$
+^^ runaway train $$
+^^ choo $$
+^^ man sit there $$
+^^ man sit $$
+^^ eensie spider $$
+^^ pipe $$
+^^ what bit $$
+^^ oh a key $$
+^^ runaway train $$
+^^ big one $$
+^^ sit tractor $$
+^^ sit $$
+^^ lion sit there $$
+^^ and man sit there $$
+^^ giraffe ride $$
+^^ crash $$
+^^ man sit there $$
+^^ toy $$
+^^ that a man $$
+^^ come back $$
+^^ a man there $$
+^^ a man sit there $$
+^^ a man sit there $$
+^^ it put sand $$
+^^ man sit there $$
+^^ man go $$
+^^ go $$
+^^ a man $$
+^^ get a man $$
+^^ I get a man $$
+^^ I get a gun $$
+^^ a gun $$
+^^ door $$
+^^ it go $$
+^^ go spider $$
+^^ a spider $$
+^^ and dry the rain $$
+^^ rain $$
+^^ no $$
+^^ oh   spider sit there $$
+^^ spider sit there $$
+^^ spider sit there $$
+^^ spider sit there $$
+^^ I drive a boat $$
+^^ I drive a boat $$
+^^ a man sit there $$
+^^ a man sit there $$
+^^ man $$
+^^ there $$
+^^ put it that $$
+^^ hold it $$
+^^ sit there $$
+^^ that sit there $$
+^^ might sit there $$
+^^ not a man sit there $$
+^^ a man sit there $$
+^^ might sit there $$
+^^ might sit there $$
+^^ that might sit there $$
+^^ that might sit there $$
+^^ that a man fall off $$
+^^ I get out $$
+^^ get $$
+^^ I get $$
+^^ a truck $$
+^^ the sun sit there $$
+^^ the sun sit there $$
+^^ yeah $$
+^^ and me sit there $$
+^^ sit there me $$
+^^ sit knee $$
+^^ a man $$
+^^ a man sit there $$
+^^ a man might sit there $$
+^^ might sit there $$
+^^ no $$
+^^ Daddy sit there $$
+^^ no $$
+^^ no $$
+^^ Mummy  sit $$
+^^ Mummy sit there $$
+^^ no $$
+^^ let go $$
+^^ drive it $$
+^^ let man sit there $$
+^^ might sit there $$
+^^ eat there $$
+^^ might $$
+^^  might sit $$
+^^ might sit there $$
+^^ might $$
+^^ might sit there $$
+^^ might sit there $$
+^^ hiccup $$
+^^ a man sit $$
+^^ man might sit there $$
+^^ boy cry $$
+^^ boy cry $$
+^^ boy $$
+^^ cry $$
+^^ bad $$
+^^ bad baby $$
+^^ bad girl $$
+^^ it a bad girl $$
+^^ play a tractor $$
+^^ sit a tractor $$
+^^ sit a tractor $$
+^^ yeah $$
+^^ no not $$
+^^ cake $$
+^^ no eat the cake $$
+^^ eat the pie $$
+^^ look Daddy $$
+^^ I like like that $$
+^^ that man sit there $$
+^^ a drive sit there $$
+^^ drive a boat $$
+^^ sit knee $$
+^^ sit knee $$
+^^ sit there $$
+^^ not sit there $$
+^^ sit there $$
+^^ the tractor $$
+^^ sit the train $$
+^^ sit the train $$
+^^ not a man sit there $$
+^^ lady sit $$
+^^ hat $$
+^^ man $$
+^^ man $$
+^^ get a hat $$
+^^ mhm $$
+^^ no $$
+^^ hat $$
+^^ sit there $$
+^^ me sit there $$
+^^ that mine $$
+^^ look $$
+^^ not a big one $$
+^^ it broke $$
+^^ it  broke $$
+^^ train $$
+^^ dig $$
+^^ key $$
+^^ key $$
+^^ key $$
+^^ he sit there $$
+^^ key sit there $$
+^^ a man sit there $$
+^^ a man sit there $$
+^^ a man sit there $$
+^^ a door $$
+^^ man drive sit there $$
+^^ me sit there $$
+^^ Mummy $$
+^^ put the sand grass $$
+^^ cut the grass $$
+^^ put $$
+^^ put $$
+^^ man cut the grass $$
+^^ want boat $$
+^^ want big one $$
+^^ want big one $$
+^^ want big one $$
+^^ want big one $$
+^^ big one  that $$
+^^ look look $$
+^^ want a big one $$
+^^ holiday $$
+^^ holiday $$
+^^ holiday $$
+^^ holiday $$
+^^ this boat $$
+^^ need holiday $$
+^^ boat $$
+^^ tractor $$
+^^ grass cut $$
+^^ grass cut $$
+^^ no $$
+^^ not no $$
+^^ Goggle get $$
+^^ Goggle get $$
+^^ a tractor $$
+^^ man sit there $$
+^^ man sit there $$
+^^ not the man sit there $$
+^^ eat doll $$
+^^ sit in $$
+^^ oh dear dear $$
+^^ ground $$
+^^ doll $$
+^^ grass cut $$
+^^ grass $$
+^^ cut grass $$
+^^ cut $$
+^^ oh $$
+^^ cut book $$
+^^ cut the grass $$
+^^ oh cut the grass $$
+^^ oh $$
+^^ oh dear dear $$
+^^ oh no $$
+^^ look Mummy $$
+^^ Daddy $$
+^^ no $$
+^^  Daddy $$
+^^ lady repair $$
+^^ Daddy repair $$
+^^ boy $$
+^^ oh dear dear $$
+^^ broke $$
+^^ break $$
+^^ it break $$
+^^ it break $$
+^^ break that $$
+^^ it break $$
+^^ broke $$
+^^ Daddy repair that tractor $$
+^^ oh $$
+^^ byebye $$
+^^ spot dog $$
+^^ horse $$
+^^ eat  $$
+^^ eat dirt $$
+^^ eat $$
+^^ boat $$
+^^ boat $$
+^^ slide $$
+^^  sit there $$
+^^ spot dog $$
+^^ dog hole $$
+^^ door $$
+^^ door $$
+^^ door $$
+^^ whoo $$
+^^ want house $$
+^^ door $$
+^^ stick $$
+^^ no $$
+^^ door $$
+^^ stick there $$
+^^ man in door $$
+^^ ssh $$
+^^ sleep $$
+^^ sleep $$
+^^ sleep $$
+^^ drink $$
+^^ ssh $$
+^^ door $$
+^^ open door $$
+^^ door $$
+^^ bang $$
+^^ hello $$
+^^ eight $$
+^^ nine $$
+^^ door $$
+^^ stick door $$
+^^ stick $$
+^^ dingding $$
+^^ man $$
+^^ man come there $$
+^^ you put spot the dog $$
+^^ spot $$
+^^ eat dirt $$
+^^ spot $$
+^^ tail $$
+^^ oh $$
+^^ mouth $$
+^^ mouth $$
+^^ eat $$
+^^ eat bicbics $$
+^^ eat bicbics $$
+^^ bic $$
+^^ eat meat $$
+^^ eat $$
+^^ oh big bark $$
+^^ a duck $$
+^^ cry $$
+^^ big  $$
+^^ good boy $$
+^^ good boy $$
+^^ big dog park $$
+^^ pull ear $$
+^^ pull tail $$
+^^ kiss $$
+^^ no $$
+^^ kiss $$
+^^ dog oh good boy $$
+^^ poor dog cry $$
+^^ a bite $$
+^^ I get  $$
+^^ no $$
+^^ no no no $$
+^^ house $$
+^^ not house $$
+^^ train $$
+^^ that door $$
+^^ a boat $$
+^^ fly $$
+^^ it not $$
+^^ no $$
+^^ that   not a boat $$
+^^ sit $$
+^^ play sit that $$
+^^ spot dog $$
+^^ grass $$
+^^ grass $$
+^^ grass $$
+^^ the dog $$
+^^ dog $$
+^^ hoover dog $$
+^^ want dog $$
+^^ hoover dog $$
+^^ hoover dog $$
+^^ in there $$
+^^ eat the grass $$
+^^ eat horse $$
+^^ so $$
+^^ want that $$
+^^ cut the grass $$
+^^ cut the grass $$
+^^ cut grass $$
+^^ want $$
+^^ cut grass $$
+^^ cut the tractor $$
+^^ I go $$
+^^ later $$
+^^ no $$
+^^ no $$
+^^ ball $$
+^^ eat boy $$
+^^ eat $$
+^^ eat the tractor $$
+^^  eat the tractor $$
+^^ grass $$
+^^ ball $$
+^^  want it $$
+^^ want it $$
+^^ want it $$
+^^ want it $$
+^^ want it $$
+^^ want $$
+^^ get a ball $$
+^^ want get a ball $$
+^^ a ball $$
+^^ hit a ball $$
+^^ hit a ball $$
+^^ ball $$
+^^ hit a ball $$
+^^ hit bang $$
+^^ hit a ball $$
+^^ hit ball $$
+^^ good shot $$
+^^ a ball $$
+^^ ball $$
+^^ get $$
+^^ look get hit a ball $$
+^^ Mummy $$
+^^ hit a ball $$
+^^ get ball $$
+^^ oh $$
+^^ that ball $$
+^^ oh $$
+^^ get a ball $$
+^^ please $$
+^^ oh $$
+^^ oh $$
+^^ I get out $$
+^^ I get a ball $$
+^^ stick $$
+^^ ball $$
+^^ hit a ball $$
+^^ gun $$
+^^ want gun $$
+^^ want gun $$
+^^ gun $$
+^^ want gun $$
+^^ want gun $$
+^^ want gun $$
+^^ want gun $$
+^^ want gun $$
+^^ want the gun $$
+^^ want gun $$
+^^ want gun $$
+^^ shoot $$
+^^ dead $$
+^^ dead $$
+^^ dead $$
+^^ not dead $$
+^^ I shoot a dog $$
+^^ I shoot a man $$
+^^ I shoot a dog $$
+^^ dead $$
+^^ dead dog $$
+^^ dead dog $$
+^^ boy dead man $$
+^^ I shoot Mummy $$
+^^ dead $$
+^^ shoot a boy $$
+^^ a man $$
+^^ shoot a duck $$
+^^ get a duck $$
+^^ hen $$
+^^ toy dead $$
+^^ I shoot a train $$
+^^ dead $$
+^^  get a truck $$
+^^ a boat $$
+^^ dead dog $$
+^^ that $$
+^^  shoot a fly $$
+^^ shoot a fly $$
+^^ not shoot a big one $$
+^^ where fly $$
+^^ clown dead $$
+^^ dead $$
+^^ shoot a  $$
+^^ dead $$
+^^ that dead $$
+^^ a man $$
+^^ that a man $$
+^^ that a man $$
+^^ I shoot a man $$
+^^ I shoot a man $$
+^^ I shoot a man $$
+^^ dead $$
+^^ man $$
+^^ dead man $$
+^^ dead $$
+^^ dead $$
+^^ I shoot $$
+^^ I shoot $$
+^^ dead $$
+^^ dead $$
+^^ I shoot a truck $$

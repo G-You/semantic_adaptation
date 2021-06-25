@@ -4,9 +4,29 @@ Corresponding author: [Guanghao You](mailto:guanghao.you@uzh.ch?subject=[GitHub]
 
 ## Data
 
-Manchester corpus data can be retrieved via the link below:\
+Corpus files are already prepared in folders *cds* and *child*\
+
+If you wish to replicate data retrieval and parsing, the original Manchester corpus data can be retrieved via the link below:\
 [Manchester corpus](https://childes.talkbank.org/data-xml/Eng-UK/Manchester.zip)\
-Please place the folders under a directory called "data" (to be processed by the parser)
+Please place the folders under a directory called "data" (to be processed by the parser), and run
+
+```bash
+chmod +x parse.sh
+./parse.sh
+```
+
+Before you run the parsing, two corrections should be done:
+
+### 1. CHILDES reader correction 
+In the source code for nltk.corpus.reader.childes (childes.py)\
+After line 391, add:\
+```python
+word = ""
+```
+
+### 2. Age correction in Manchester corpus
+Session _Nicole 020806.xml_: age corrected from 07M12D to 08M06D
+Session _Nicole 020730.xml_: age corrected from 08M29D to 07M30D
 
 ## For quick replication of figures and tables
 

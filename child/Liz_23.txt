@@ -1,0 +1,568 @@
+^^ my baby $$
+^^ house $$
+^^ person $$
+^^ person $$
+^^ person $$
+^^ Liz pram $$
+^^ Liz pram $$
+^^ Liz pram $$
+^^ my book $$
+^^ my book $$
+^^ cow $$
+^^ cow $$
+^^ cow $$
+^^ yes $$
+^^ train $$
+^^ helicopter $$
+^^ helicopter $$
+^^ cow $$
+^^ cow $$
+^^ cow $$
+^^ cow $$
+^^ cow $$
+^^ dog $$
+^^ house $$
+^^ house $$
+^^ box $$
+^^ box $$
+^^ fly $$
+^^ fly $$
+^^ oh $$
+^^ yes $$
+^^ dog $$
+^^ dog $$
+^^ woofwoof $$
+^^ tail $$
+^^ tail $$
+^^ tail $$
+^^ look $$
+^^ person $$
+^^ dog $$
+^^ Liz junk $$
+^^ Liz junk $$
+^^ Liz junk $$
+^^ Liz junk $$
+^^ achoo $$
+^^ Mummy tea $$
+^^ white $$
+^^ white $$
+^^ mine $$
+^^ pig $$
+^^ pig $$
+^^ pig $$
+^^ honkhonk $$
+^^ doll $$
+^^ dog $$
+^^ dog $$
+^^ dog $$
+^^ mouse $$
+^^ mouse $$
+^^ mouse $$
+^^ yeah $$
+^^ mouse $$
+^^ mouse $$
+^^ and dog $$
+^^ and mat $$
+^^ ladder $$
+^^ yeah $$
+^^ pen $$
+^^ yeah $$
+^^ paper $$
+^^ paper $$
+^^ pen $$
+^^ pen $$
+^^ mine $$
+^^ again $$
+^^ bunny $$
+^^ bunny $$
+^^ bunny $$
+^^ duck $$
+^^ cat $$
+^^ cow $$
+^^ cat $$
+^^ Liz draw $$
+^^ man $$
+^^ cow $$
+^^ cow $$
+^^ face $$
+^^ face $$
+^^ face $$
+^^ face $$
+^^ whisker $$
+^^ face $$
+^^ oh cow $$
+^^ cow $$
+^^ cow $$
+^^ oh $$
+^^ cow $$
+^^ yeah $$
+^^ book $$
+^^ book $$
+^^ book $$
+^^ monkey $$
+^^ monkey $$
+^^ mine $$
+^^ all_gone $$
+^^ all_gone $$
+^^ my  in it $$
+^^ it look  $$
+^^ monkey $$
+^^ tail $$
+^^ tail $$
+^^ run away $$
+^^ run away $$
+^^ yeah $$
+^^ egg $$
+^^ egg $$
+^^ money $$
+^^ money $$
+^^ mine $$
+^^ mine $$
+^^ mine $$
+^^ mhm $$
+^^ no $$
+^^ on there $$
+^^ on there $$
+^^ yeah $$
+^^ no $$
+^^ want it $$
+^^ on there $$
+^^ no $$
+^^ on there $$
+^^ table $$
+^^ yellow $$
+^^ yellow $$
+^^ panda $$
+^^ panda $$
+^^ Spot  $$
+^^ teddy $$
+^^ teddy $$
+^^ teddy $$
+^^ yeah $$
+^^ baa sheep $$
+^^ baa sheep $$
+^^ where baa sheep $$
+^^ baa sheep $$
+^^ baa $$
+^^ yes $$
+^^ cupboard $$
+^^ stair $$
+^^ stair $$
+^^ hat $$
+^^ my hat $$
+^^ my hat $$
+^^ Pooh $$
+^^ Pooh $$
+^^ Pooh $$
+^^ Pooh $$
+^^ Pooh $$
+^^ Pooh $$
+^^ Owl $$
+^^ Robin $$
+^^ Pooh $$
+^^ tree $$
+^^ tree $$
+^^ stand up tree $$
+^^ jump $$
+^^ Eeyore $$
+^^ water $$
+^^ splash $$
+^^ Kangaroo $$
+^^ Kangaroo $$
+^^ camel $$
+^^ hedgehog $$
+^^ Roo $$
+^^ Kangaroo $$
+^^ party $$
+^^ present for Pooh $$
+^^ Pooh $$
+^^ drink $$
+^^ stand up $$
+^^ yes $$
+^^ sandwich $$
+^^ and some biscuit $$
+^^ milk $$
+^^ milk $$
+^^ yeah $$
+^^ Daddy soup $$
+^^ there $$
+^^ there $$
+^^ no $$
+^^ back $$
+^^ back $$
+^^ yeah $$
+^^ bunny $$
+^^ bunny $$
+^^ yeah $$
+^^ chicken $$
+^^ chicken chicken $$
+^^ my seesaw $$
+^^ my chair $$
+^^ my chair $$
+^^ yellow $$
+^^ yellow $$
+^^ yellow $$
+^^ orange $$
+^^ orange $$
+^^ orange $$
+^^ orange $$
+^^ one $$
+^^ blue $$
+^^ pink $$
+^^ pink $$
+^^ and the red $$
+^^ yeah $$
+^^ red $$
+^^ sheep $$
+^^ sheep $$
+^^ baa $$
+^^ tissue $$
+^^ nose $$
+^^ pram $$
+^^ pram $$
+^^ no $$
+^^ and teddy $$
+^^ and mouse $$
+^^ my baby $$
+^^ squash her $$
+^^ milk $$
+^^ to $$
+^^ Anna $$
+^^ Anna $$
+^^ Anna $$
+^^ duck $$
+^^ duck $$
+^^ duck $$
+^^ mine $$
+^^ get it $$
+^^ get it $$
+^^ it a duck $$
+^^ it a duck $$
+^^ duck $$
+^^ duck $$
+^^ quackquack $$
+^^ eye $$
+^^ eye $$
+^^ eye $$
+^^ eye $$
+^^ Liz eye $$
+^^ wee $$
+^^ wee $$
+^^ yeah $$
+^^ yeah $$
+^^ monkey $$
+^^ monkey $$
+^^ run $$
+^^ no $$
+^^ Squonk $$
+^^ pest $$
+^^ Spot stick $$
+^^ Spot $$
+^^ Liz $$
+^^ Liz baby be $$
+^^ boy $$
+^^ boy $$
+^^ grass $$
+^^ pram $$
+^^ pram $$
+^^ wee $$
+^^ wee $$
+^^ no $$
+^^ yeah $$
+^^ no $$
+^^ no $$
+^^ want it $$
+^^ want it $$
+^^ yeah $$
+^^ no $$
+^^ yeah $$
+^^ oh dear $$
+^^ pram $$
+^^ Liz pram $$
+^^ oh dear $$
+^^ Liz pram $$
+^^ oh dear $$
+^^ down $$
+^^ yeah $$
+^^ strawberry $$
+^^ mouse $$
+^^ strawberry $$
+^^ ripe strawberry $$
+^^ ripe strawberry $$
+^^ Liz hug $$
+^^ Liz hug $$
+^^ down $$
+^^ down $$
+^^ up $$
+^^ down $$
+^^ up $$
+^^ down $$
+^^ up $$
+^^ down $$
+^^ up $$
+^^ Liz $$
+^^ row row row $$
+^^ seesaw $$
+^^ seesaw $$
+^^ wee $$
+^^ not $$
+^^ mine $$
+^^ mine $$
+^^ mine $$
+^^ mine $$
+^^ mine $$
+^^ mine $$
+^^ not $$
+^^ chicken $$
+^^ oh dear $$
+^^ cow $$
+^^ oh dear pig $$
+^^ oh dear cow $$
+^^ yeah $$
+^^ stand up $$
+^^ green bit $$
+^^ on there $$
+^^ on there $$
+^^ on there $$
+^^ no $$
+^^ cow $$
+^^ down $$
+^^ yeah $$
+^^ no $$
+^^ want to $$
+^^ all down $$
+^^ my clock $$
+^^ my clock $$
+^^ my $$
+^^ mine $$
+^^ yeah $$
+^^ clock $$
+^^ mine $$
+^^ there $$
+^^ mine $$
+^^ chew $$
+^^ Liz $$
+^^ it Spot $$
+^^ it Liz $$
+^^ yeah $$
+^^ six $$
+^^ my $$
+^^ bite $$
+^^ my $$
+^^ bite $$
+^^ safe $$
+^^ chew it $$
+^^ my clock $$
+^^ no $$
+^^ stick $$
+^^ eye out $$
+^^ here you go $$
+^^ eye out $$
+^^ eye out $$
+^^ off $$
+^^ on there $$
+^^ piece $$
+^^ there $$
+^^ there $$
+^^ there $$
+^^ yeah $$
+^^ Liz do it $$
+^^ more $$
+^^ more $$
+^^ more frog $$
+^^ no $$
+^^ toy out $$
+^^ toy $$
+^^ yeah $$
+^^ want more $$
+^^ yes $$
+^^ Froggie $$
+^^ Liz Froggie $$
+^^ draw $$
+^^ draw $$
+^^ no $$
+^^ draw $$
+^^ draw $$
+^^ picture $$
+^^ picture $$
+^^ crayon $$
+^^ yes $$
+^^ picture $$
+^^ on there $$
+^^ space $$
+^^ picture $$
+^^ on there $$
+^^ hand $$
+^^ pen $$
+^^ pen $$
+^^ pen $$
+^^ Mummy do it $$
+^^ Mummy do it $$
+^^ yeah $$
+^^ move $$
+^^ Daddy thumb $$
+^^ Daddy $$
+^^ move $$
+^^ Liz do it $$
+^^ pen $$
+^^ no $$
+^^ there $$
+^^ Tank $$
+^^ Tank $$
+^^ Tank $$
+^^ Tank $$
+^^ Tank $$
+^^ Tank $$
+^^ no $$
+^^ Tank $$
+^^ Tank $$
+^^ Tank $$
+^^ tellie $$
+^^ tellie $$
+^^ Tank $$
+^^ Tank $$
+^^ Tank $$
+^^ steady $$
+^^ go $$
+^^ page $$
+^^ page $$
+^^ hat $$
+^^ hat $$
+^^ cow $$
+^^ water $$
+^^ drink of water $$
+^^ yeah $$
+^^ page $$
+^^ back page $$
+^^ back page $$
+^^ drink of water $$
+^^ drink of water $$
+^^ yeah $$
+^^ round the corner $$
+^^ corner $$
+^^ corner $$
+^^ Tank $$
+^^ Tank $$
+^^ corner $$
+^^ drink of water $$
+^^ drink of water $$
+^^ Liz water $$
+^^ Liz water $$
+^^ cushion $$
+^^ cushion $$
+^^ cushion $$
+^^ cushion $$
+^^ cushion $$
+^^ cushion $$
+^^ cushion $$
+^^ cushion $$
+^^ on there $$
+^^ on there $$
+^^ Tank $$
+^^ Tank $$
+^^ Tank $$
+^^ Tank $$
+^^ Tank $$
+^^ Tank $$
+^^ bus $$
+^^ Tank $$
+^^ cat $$
+^^ cat $$
+^^ Tank $$
+^^ Tank $$
+^^ all_gone $$
+^^ chicken $$
+^^ chicken $$
+^^ control $$
+^^ control $$
+^^ draw $$
+^^ draw $$
+^^ table $$
+^^ table $$
+^^ table $$
+^^ helicopter $$
+^^ helicopter $$
+^^ helicopter $$
+^^ helicopter $$
+^^ water $$
+^^ helicopter $$
+^^ helicopter $$
+^^ more helicopter $$
+^^ more helicopter $$
+^^ yeah $$
+^^ helicopter $$
+^^ yeah $$
+^^ helicopter $$
+^^ helicopter $$
+^^ page $$
+^^ snow $$
+^^ there $$
+^^ there $$
+^^ more there $$
+^^ table $$
+^^ table $$
+^^ yeah $$
+^^ sit down $$
+^^ sit down $$
+^^ off $$
+^^ off $$
+^^ off $$
+^^ off $$
+^^ off $$
+^^ page $$
+^^ back page $$
+^^ no want it $$
+^^ no $$
+^^ no $$
+^^ wee $$
+^^ not $$
+^^ shut door $$
+^^ post $$
+^^ post $$
+^^ yeah $$
+^^ back again $$
+^^ back again $$
+^^ hello $$
+^^ back again $$
+^^ hello $$
+^^ hello $$
+^^ yeah $$
+^^ yeah $$
+^^ hello $$
+^^ back again $$
+^^ back again $$
+^^ poo $$
+^^ poo $$
+^^ wee $$
+^^ wee $$
+^^ poo $$
+^^ wee $$
+^^ poo $$
+^^ poo $$
+^^ poo $$
+^^ poo $$
+^^ poo $$
+^^ poo $$
+^^ poo $$
+^^ wee $$
+^^ poo $$
+^^ wee $$
+^^ more $$
+^^ yes $$
+^^ wee $$
+^^ toilet $$
+^^ down toilet $$
+^^ down there $$
+^^ down there $$
+^^ wee $$
+^^ wee $$
+^^ down toilet $$
+^^ down toilet $$
+^^ wee $$
+^^ Liz wee $$
+^^ Liz wee $$
+^^ pot $$
+^^ down toilet $$
+^^ tum $$
+^^ button $$
+^^ button $$
