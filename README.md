@@ -1,4 +1,4 @@
-# Repository for the paper "Adults adapt to child speech in semantic use"
+# Repository for the paper "Adults adapt to child speech in causative semantics"
 
 Corresponding author: [Guanghao You](mailto:guanghao.you@uzh.ch?subject=[GitHub]%20Paper%20on%20semantic%20adaptation)
 
